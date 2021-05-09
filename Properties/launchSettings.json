@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "BowlingImageExtractor": {
+      "commandName": "Project",
+      "commandLineArgs": "\"C:\\Users\\nicho\\Desktop\\Screenshot_20210113-220454_Lanetalk.jpg\""
+    }
+  }
+}
